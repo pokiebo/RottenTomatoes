@@ -1,11 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww33400\viewh18100\viewkind0
-\deftab720
-\pard\pardeftab720
 
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+
+
 ## Rotten Tomatoes\
 \
 This is a movies app displaying box office and top rental DVDs using the [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON).\
